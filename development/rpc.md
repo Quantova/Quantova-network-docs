@@ -1,0 +1,81 @@
+# **Gradium Network: RPCs & Developer Configuration**
+
+## **Network Overview**
+
+Gradium Network is a blockchain ecosystem designed for scalability, security, and efficient transaction processing.
+Developers and validators can interact with the network using the RPC endpoints and WebSocket connections provided
+below.
+
+---
+
+## **Network Configuration**
+
+| **Parameter**      | **Value**                        |
+|--------------------|----------------------------------|
+| **Network Name**   | Gradium Network                  |
+| **Chain ID**       | GrQ20                            |
+| **Symbol**         | GRD                              |
+| **Block Explorer** | [GRQScan.io](https://GRQScan.io) |
+| **Website**        | [Gradium.io](https://Gradium.io) |
+
+---
+
+## **RPC Endpoints**
+
+### **Mainnet RPC**
+
+- **HTTPS:** `https://rpc.gradium.io`
+- **WebSocket:** `wss://ws.gradium.io`
+
+### **Testnet RPC**
+
+- **HTTPS:** `https://testnet-rpc.gradium.io`
+- **WebSocket:** `wss://testnet-ws.gradium.io`
+
+### **Archive Node RPC** *(For historical data access)*
+
+- **HTTPS:** `https://archive-rpc.gradium.io`
+
+---
+
+## **Developer-Focused RPCs**
+
+### **Standard JSON-RPC (HTTP)**
+
+- `https://dev-rpc.gradium.io`
+
+### **GraphQL Endpoint**
+
+- `https://graphql.gradium.io`
+
+### **Debug & Trace RPC** *(For advanced debugging and tracing transactions)*
+
+- `https://trace-rpc.gradium.io`
+
+---
+
+## **How to Configure Your Wallet or dApp**
+
+To connect your wallet or decentralized application (dApp) to the Gradium Network, use the following configuration:
+
+### **Metamask / Wallet Configuration**
+
+1. Open Metamask and go to **Settings** > **Networks**.
+2. Click **Add Network** and enter the details:
+    - **Network Name:** Gradium Network
+    - **RPC URL:** `https://rpc.gradium.io`
+    - **Chain ID:** `GrQ20`
+    - **Symbol:** `GRD`
+    - **Block Explorer URL:** `https://GRQScan.io`
+3. Save the configuration and switch to the Gradium Network.
+
+---
+
+---
+
+## **Additional Resources**
+
+For more information, visit:
+
+- [Gradium Docs](https://docs.gradium.io)
+- [Developer Support](https://support.gradium.io)
