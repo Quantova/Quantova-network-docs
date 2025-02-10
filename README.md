@@ -1,6 +1,6 @@
-# Quantum-Resistant Blockchain - Developer Documentation
+# Gradium Network - Developer Documentation
 
-Welcome to the official internal documentation repository for the **Quantum-Resistant Blockchain** project.
+Welcome to the official internal documentation repository for the **Gradium Network** project.
 This repository serves as the central hub for all technical documentation, guides, and
 resources needed by developers to understand, build, and contribute to the project.
 
@@ -8,17 +8,16 @@ resources needed by developers to understand, build, and contribute to the proje
 
 ## **Project Overview**
 
-The **Quantum-Resistant Blockchain** is a next-generation blockchain platform designed to address the emerging threats
-posed by quantum computing.
-Traditional blockchains rely on cryptographic algorithms (e.g., ECDSA, RSA) that are vulnerable to quantum attacks,
-such as **Shor's Algorithm** (which breaks public-key cryptography) and
+The **Gradium Network** is a next-generation blockchain platform designed to address the emerging threats posed by
+quantum computing. Traditional blockchains rely on cryptographic algorithms (e.g., ECDSA, RSA) that are vulnerable to
+quantum attacks, such as **Shor's Algorithm** (which breaks public-key cryptography) and
 **Grover's Algorithm** (which weakens symmetric-key cryptography). This project integrates
 **post-quantum cryptographic (PQC) algorithms** to ensure long-term security and resilience against quantum computing
 threats.
 
 ## **Key Features**
 
-1. **Quantum-Resistant Consensus**: CRYSTALS-Dilithium ensures secure block validation in a PoS model.
+1. **Gradium Network Consensus**: CRYSTALS-Dilithium ensures secure block validation in a PoS model.
 2. **Secure Transactions**: FALCON enables compact, quantum-resistant transaction signatures.
 3. **Quantum-Safe Networking**: Kyber secures node communication via post-quantum key exchange.
 4. **Tamper-Proof Storage**: SPHINCS+ and KangarooTwelve protect Merkle tree integrity.
@@ -56,4 +55,4 @@ documentation.
 
 ## Questions?
 
-Reach out to the team on [Slack/Teams] or contact [Your Name] at [your.email@example.com].
+Reach out to the team on [Slack/Teams] or contact [ Gradium Support team] at [info@gradium.io].

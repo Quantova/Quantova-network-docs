@@ -1,4 +1,4 @@
-# Quantum-Resistant Blockchain: Technical Architecture Documentation
+# Gradium Network: Technical Architecture Documentation
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -18,7 +18,7 @@
 ---
 
 ## **Introduction**
-This document outlines the technical architecture of a **quantum-resistant blockchain** built using Substrate. 
+This document outlines the technical architecture of a **Gradium Network** built using Substrate. 
 The system replaces classical cryptographic algorithms with **post-quantum cryptography (PQC)** to safeguard against 
 quantum computing threats. Each component is designed to address vulnerabilities posed by algorithms like Shor’s and 
 Grover’s while maintaining performance and usability.
@@ -171,7 +171,7 @@ Maintain blockchain data integrity using quantum-resistant structures.
 ---
 
 ## **Conclusion**
-This blockchain integrates **post-quantum cryptographic primitives** at every layer, ensuring long-term security against 
+Gradium Network integrates **post-quantum cryptographic primitives** at every layer, ensuring long-term security against 
 classical and quantum threats. By adopting algorithms like CRYSTALS-Dilithium, FALCON, Kyber, and SPHINCS+, the platform achieves:
 - **Quantum Resistance**: Immunity to Shor’s and Grover’s algorithms.
 - **High Performance**: Optimized algorithms for low overhead and high throughput.
