@@ -62,7 +62,7 @@ Ensure the integrity and authenticity of user transactions.
   |--------------------|-------------|  
   | Public Key Size    | 897 bytes   |  
   | Signature Size     | 666 bytes   |  
-  | Hash Function      | SHAKE-256   |
+  | Hash Function      | sha3-256 bit   |
 
 ---
 
