@@ -12,7 +12,6 @@ Thank you for contributing to the project! Here’s how you can help:
 - Reviewers should provide constructive feedback and ensure code quality.
 
 ## Coding Standards
-- Follow the [code style guide](/development/code-style.md).
 - Use Prettier/ESLint for formatting and linting.
 
 ## Testing

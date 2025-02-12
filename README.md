@@ -76,14 +76,14 @@ the codebase.
 
 ### **Quick Start**
 
-1. **Set Up Your Environment**: Follow the [development setup guide](/development/setup.md).
-2. **Build the Project**: Learn how to build and run the blockchain in the [building guide](/development/building.md).
+1. **Set Up Your Environment**: Follow the [development setup guide](/6.0%20Development/setup.md).
+2. **Build the Project**: Learn how to build and run the blockchain in the [building guide](/6.0%20Development/building.md).
 3. **Explore the Architecture**: Dive into the technical design in
    the [architecture section](/3.0%20Security%20Layers/).
 
 ### **Key Sections**
 
-- [Development Guides](/development/): Setup, building, testing, and debugging.
+- [Development Guides](/6.0%20Development/): Setup, building, testing, and debugging.
 - [API Reference](/api-reference/): RPC endpoints and runtime modules.
 - [Security](/security/): Attack models, mitigations, and audit reports.
 
