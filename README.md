@@ -1,4 +1,4 @@
-# Gradium Network - Developer Documentation
+# [Gradium Network](http://gradium.io/) - Developer Documentation
 
 Welcome to the official internal documentation repository for the [**Gradium Network**](#project-overview) project.
 This repository serves as the central hub for all technical documentation, guides, and
@@ -8,7 +8,7 @@ resources needed by developers to understand, build, and contribute to the proje
 
 ## **Project Overview**
 
-The **Gradium Network** is a next-generation blockchain platform designed to address the emerging threats posed by
+The [**Gradium Network**](http://gradium.io/) is a next-generation blockchain platform designed to address the emerging threats posed by
 quantum computing. Traditional blockchains rely on cryptographic algorithms (e.g., ECDSA, RSA) that are vulnerable to
 quantum attacks, such as **Shor's Algorithm** (which breaks public-key cryptography) and
 **Grover's Algorithm** (which weakens symmetric-key cryptography). This project integrates
@@ -17,15 +17,15 @@ threats.
 
 ## **Key Features**
 
-1. **Gradium Network Consensus**: CRYSTALS-Dilithium ensures secure block validation in a PoS model.
-2. **Secure Transactions**: FALCON enables compact, quantum-resistant transaction signatures.
-3. **Quantum-Safe Networking**: Kyber secures node communication via post-quantum key exchange.
-4. **Tamper-Proof Storage**: SPHINCS+ and KangarooTwelve protect Merkle tree integrity.
-5. **Light Client Support**: VDFs allow lightweight, quantum-safe state verification.
-6. **Governance & Voting**: Rainbow signatures secure stakeholder decision-making.
-7. **Fair Randomness Generation**: SHA-3 powers tamper-proof entropy for critical processes.
-8. **Pure Proof-of-Stake**: Energy-efficient consensus with staked validators.
-9. **Deflationary Tokenomics**: Transaction fee burning reduces token supply over time.
+1. [**Gradium Network Consensus**](https://github.com/GradeLabz/gradium-network-docs/blob/main/2.0%20Core%20Blockchain%20Features/2.1%20consensus-mechanism.md): CRYSTALS-Dilithium ensures secure block validation in a PoS model.
+2. [**Secure Transactions**](https://github.com/GradeLabz/gradium-network-docs/blob/main/2.0%20Core%20Blockchain%20Features/2.2%20transaction-layer.md): FALCON enables compact, quantum-resistant transaction signatures.
+3. [**Quantum-Safe Networking**](https://github.com/GradeLabz/gradium-network-docs/blob/main/3.0%20Security%20Layers/3.2%20networking-layer.md): Kyber secures node communication via post-quantum key exchange.
+4. [**Tamper-Proof Storage**](https://github.com/GradeLabz/gradium-network-docs/blob/main/3.0%20Security%20Layers/3.3%20storage-and-state-management.md): SPHINCS+ and KangarooTwelve protect Merkle tree integrity.
+5. [**Light Client Support**](https://github.com/GradeLabz/gradium-network-docs/blob/main/4.0%20Supporting%20Features/4.1%20light-client-support.md): VDFs allow lightweight, quantum-safe state verification.
+6. [**Governance & Voting**](https://github.com/GradeLabz/gradium-network-docs/blob/main/5.0%20Governance%20and%20Economics/5.1%20governance.md): Rainbow signatures secure stakeholder decision-making.
+7. [**Fair Randomness Generation**](https://github.com/GradeLabz/gradium-network-docs/blob/main/4.0%20Supporting%20Features/4.2%20randomness-generation.md): SHA-3 powers tamper-proof entropy for critical processes.
+8. [**Pure Proof-of-Stake**](https://github.com/GradeLabz/gradium-network-docs/blob/main/5.0%20Governance%20and%20Economics/5.2%20pure-proof-of-stake.md): Energy-efficient consensus with staked validators.
+9. [**Deflationary Tokenomics**](https://github.com/GradeLabz/gradium-network-docs/blob/main/5.0%20Governance%20and%20Economics/5.3%20deflationary-tokenomics.md): Transaction fee burning reduces token supply over time.
 10. **Quantum Attack Mitigations**: SHA-3 and AES-256 counter Shor’s and Grover’s threats.
 
 ---
