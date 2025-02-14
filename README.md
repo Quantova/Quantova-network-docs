@@ -1,6 +1,6 @@
 # Gradium Network - Developer Documentation
 
-Welcome to the official internal documentation repository for the **Gradium Network** project.
+Welcome to the official internal documentation repository for the [**Gradium Network**](#project-overview) project.
 This repository serves as the central hub for all technical documentation, guides, and
 resources needed by developers to understand, build, and contribute to the project.
 
