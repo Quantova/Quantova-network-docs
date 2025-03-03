@@ -122,8 +122,7 @@ Maintain blockchain data integrity using quantum-resistant structures.
 - **Why Used**:
     - Multivariate quadratic signature scheme resistant to quantum attacks.
 - **Workflow**:
-    - Stakeholders sign votes with Rainbow signatures.
-    - Votes are aggregated and verified using public keys.
+    - Stakeholders sign with Rainbow signatures.
 
 ---
 
