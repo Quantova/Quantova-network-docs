@@ -22,7 +22,7 @@ threats.
 3. [**Quantum-Safe Networking**](https://github.com/GradeLabz/gradium-network-docs/blob/main/3.0%20Security%20Layers/3.2%20networking-layer.md): Kyber secures node communication via post-quantum key exchange.
 4. [**Tamper-Proof Storage**](https://github.com/GradeLabz/gradium-network-docs/blob/main/3.0%20Security%20Layers/3.3%20storage-and-state-management.md): SPHINCS+ and KangarooTwelve protect Merkle tree integrity.
 5. [**Light Client Support**](https://github.com/GradeLabz/gradium-network-docs/blob/main/4.0%20Supporting%20Features/4.1%20light-client-support.md): VDFs allow lightweight, quantum-safe state verification.
-6. [**Governance & Voting**](https://github.com/GradeLabz/gradium-network-docs/blob/main/5.0%20Governance%20and%20Economics/5.1%20governance.md): Rainbow signatures secure stakeholder decision-making.
+6. [**Governance & Economics**](https://github.com/GradeLabz/gradium-network-docs/blob/main/5.0%20Governance%20and%20Economics/5.1%20governance.md): Rainbow signatures secure stakeholder decision-making.
 7. [**Fair Randomness Generation**](https://github.com/GradeLabz/gradium-network-docs/blob/main/4.0%20Supporting%20Features/4.2%20randomness-generation.md): SHA-3 powers tamper-proof entropy for critical processes.
 8. [**Pure Proof-of-Stake**](https://github.com/GradeLabz/gradium-network-docs/blob/main/5.0%20Governance%20and%20Economics/5.2%20pure-proof-of-stake.md): Energy-efficient consensus with staked validators.
 9. [**Deflationary Tokenomics**](https://github.com/GradeLabz/gradium-network-docs/blob/main/5.0%20Governance%20and%20Economics/5.3%20deflationary-tokenomics.md): Transaction fee burning reduces token supply over time.

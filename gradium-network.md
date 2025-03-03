@@ -8,7 +8,7 @@
 5. [Storage and State Management](#storage-and-state-management)
 6. [Cryptographic Primitives](#cryptographic-primitives)
 7. [Key Exchange Mechanisms](#key-exchange-mechanisms)
-8. [Governance and Voting](#governance-and-voting)
+8. [Governance and Econimics](#governance-and-economics)
 9. [Randomness Generation](#randomness-generation)
 10. [Light Client Support](#light-client-support)
 11. [Attack Models and Mitigations](#attack-models-and-mitigations)
@@ -117,7 +117,7 @@ Maintain blockchain data integrity using quantum-resistant structures.
 
 ---
 
-## **Governance and Voting**
+## **Governance and Economics**
 ### Algorithm: **Rainbow**
 - **Why Used**:
     - Multivariate quadratic signature scheme resistant to quantum attacks.
