@@ -25,8 +25,7 @@ threats.
 6. [**Governance & Economics**](https://github.com/GradeLabz/gradium-network-docs/blob/main/5.0%20Governance%20and%20Economics/5.1%20governance.md): Rainbow signatures secure stakeholder decision-making.
 7. [**Fair Randomness Generation**](https://github.com/GradeLabz/gradium-network-docs/blob/main/4.0%20Supporting%20Features/4.2%20randomness-generation.md): SHA-3 powers tamper-proof entropy for critical processes.
 8. [**Pure Proof-of-Stake**](https://github.com/GradeLabz/gradium-network-docs/blob/main/5.0%20Governance%20and%20Economics/5.2%20pure-proof-of-stake.md): Energy-efficient consensus with staked validators.
-9. [**Deflationary Tokenomics**](https://github.com/GradeLabz/gradium-network-docs/blob/main/5.0%20Governance%20and%20Economics/5.3%20deflationary-tokenomics.md): Transaction fee burning reduces token supply over time.
-10. **Quantum Attack Mitigations**: SHA-3 and AES-256 counter Shor’s and Grover’s threats.
+9. **Quantum Attack Mitigations**: SHA-3 and AES-256 counter Shor’s and Grover’s threats.
 
 ---
 
@@ -63,7 +62,6 @@ Chain (BSC).
 This bridged token has a **fixed total supply of 52 million** and follows a structured burn mechanism:
 
 - **Total Supply**: 52,000,000 GRD (fixed)
-- **Burn Rate**: 3% per transaction
 - **Use Cases**: Trading, DeFi applications, and cross-chain interoperability.
 - **Bridge Mechanism**: Users can swap between the native and bridged versions of GRD via the official bridge.
 
