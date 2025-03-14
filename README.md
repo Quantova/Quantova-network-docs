@@ -1,6 +1,6 @@
-# [Gradium Network](http://gradium.io/) - Developer Documentation
+# [Quantova Network](http://Quantova.org/) - Developer Documentation
 
-Welcome to the official internal documentation repository for the [**Gradium Network**](#project-overview) project.
+Welcome to the official internal documentation repository for the [**Quantova Network**](#project-overview) project.
 This repository serves as the central hub for all technical documentation, guides, and
 resources needed by developers to understand, build, and contribute to the project.
 
@@ -8,7 +8,7 @@ resources needed by developers to understand, build, and contribute to the proje
 
 ## **Project Overview**
 
-The [**Gradium Network**](http://gradium.io/) is a next-generation blockchain platform designed to address the emerging threats posed by
+The [**Quantova Network**](http://Quantova.org/) is a next-generation blockchain platform designed to address the emerging threats posed by
 quantum computing. Traditional blockchains rely on cryptographic algorithms (e.g., ECDSA, RSA) that are vulnerable to
 quantum attacks, such as **Shor's Algorithm** (which breaks public-key cryptography) and
 **Grover's Algorithm** (which weakens symmetric-key cryptography). This project integrates
@@ -17,14 +17,14 @@ threats.
 
 ## **Key Features**
 
-1. [**Gradium Network Consensus**](https://github.com/GradeLabz/gradium-network-docs/blob/main/2.0%20Core%20Blockchain%20Features/2.1%20consensus-mechanism.md): CRYSTALS-Dilithium ensures secure block validation in a PoS model.
-2. [**Secure Transactions**](https://github.com/GradeLabz/gradium-network-docs/blob/main/2.0%20Core%20Blockchain%20Features/2.2%20transaction-layer.md): FALCON enables compact, quantum-resistant transaction signatures.
-3. [**Quantum-Safe Networking**](https://github.com/GradeLabz/gradium-network-docs/blob/main/3.0%20Security%20Layers/3.2%20networking-layer.md): Kyber secures node communication via post-quantum key exchange.
-4. [**Tamper-Proof Storage**](https://github.com/GradeLabz/gradium-network-docs/blob/main/3.0%20Security%20Layers/3.3%20storage-and-state-management.md): SPHINCS+ and KangarooTwelve protect Merkle tree integrity.
-5. [**Light Client Support**](https://github.com/GradeLabz/gradium-network-docs/blob/main/4.0%20Supporting%20Features/4.1%20light-client-support.md): VDFs allow lightweight, quantum-safe state verification.
-6. [**Governance & Economics**](https://github.com/GradeLabz/gradium-network-docs/blob/main/5.0%20Governance%20and%20Economics/5.1%20governance.md): Rainbow signatures secure stakeholder decision-making.
-7. [**Fair Randomness Generation**](https://github.com/GradeLabz/gradium-network-docs/blob/main/4.0%20Supporting%20Features/4.2%20randomness-generation.md): SHA-3 powers tamper-proof entropy for critical processes.
-8. [**Pure Proof-of-Stake**](https://github.com/GradeLabz/gradium-network-docs/blob/main/5.0%20Governance%20and%20Economics/5.2%20pure-proof-of-stake.md): Energy-efficient consensus with staked validators.
+1. [**Quantova Network Consensus**](https://github.com/Quantova/Quantova-network-docs/blob/main/2.0%20Core%20Blockchain%20Features/2.1%20consensus-mechanism.md): CRYSTALS-Dilithium ensures secure block validation in a PoS model.
+2. [**Secure Transactions**](https://github.com/Quantova/Quantova-network-docs/blob/main/2.0%20Core%20Blockchain%20Features/2.2%20transaction-layer.md): FALCON enables compact, quantum-resistant transaction signatures.
+3. [**Quantum-Safe Networking**](https://github.com/Quantova/Quantova-network-docs/blob/main/3.0%20Security%20Layers/3.2%20networking-layer.md): Kyber secures node communication via post-quantum key exchange.
+4. [**Tamper-Proof Storage**](https://github.com/Quantova/Quantova-network-docs/blob/main/3.0%20Security%20Layers/3.3%20storage-and-state-management.md): SPHINCS+ and KangarooTwelve protect Merkle tree integrity.
+5. [**Light Client Support**](https://github.com/Quantova/Quantova-network-docs/blob/main/4.0%20Supporting%20Features/4.1%20light-client-support.md): VDFs allow lightweight, quantum-safe state verification.
+6. [**Governance & Economics**](https://github.com/Quantova/Quantova-network-docs/blob/main/5.0%20Governance%20and%20Economics/5.1%20governance.md): Rainbow signatures secure stakeholder decision-making.
+7. [**Fair Randomness Generation**](https://github.com/Quantova/Quantova-network-docs/blob/main/4.0%20Supporting%20Features/4.2%20randomness-generation.md): SHA-3 powers tamper-proof entropy for critical processes.
+8. [**Pure Proof-of-Stake**](https://github.com/Quantova/Quantova-network-docs/blob/main/5.0%20Governance%20and%20Economics/5.2%20pure-proof-of-stake.md): Energy-efficient consensus with staked validators.
 9. **Quantum Attack Mitigations**: SHA-3 and AES-256 counter Shor’s and Grover’s threats.
 
 ---
@@ -33,31 +33,31 @@ threats.
 
 | Parameter              | Value                            |
 |------------------------|----------------------------------|
-| **Network Name**       | Gradium Network                  |
-| **RPC URL**            | GrQ20 RPC                        |
-| **Chain ID**           | GrQ20                            |
-| **Symbol**             | GRD                              |
-| **Block Explorer URL** | [GRQScan.io](https://GRQScan.io) |
-| **Website**            | [Gradium.io](https://Gradium.io) |
+| **Network Name**       | Quantova Network                  |
+| **RPC URL**            | https://rpc.quantova.org                        |
+| **Chain ID**           | QTOV20                            |
+| **Symbol**             | QTOV                              |
+| **Block Explorer URL** | [QtovaScan.io](https://QtovaScan.io) |
+| **Website**            | [Quantova.org](https://Quantova.org) |
 
 ---
 
-## **Gradium Tokenomics**
+## **Quantova Tokenomics**
 
 ### **Native Deflationary Coin: GRD**
 
-The native currency of the Gradium Network, **GRD**, is designed with a **deflationary model**, ensuring long-term
+The native currency of the Quantova Network, **GRD**, is designed with a **deflationary model**, ensuring long-term
 sustainability. Key aspects:
 
 - **Consensus Participation**: Validators and delegators stake GRD to secure the network and earn rewards.
 - **Transaction Fees & Burning**: A portion of each transaction fee is **burned**, gradually reducing the total supply.
 - **Ecosystem Utility**: GRD is used for governance, smart contract execution, and ecosystem services.
-- **Inflation Control**: Unlike traditional models, Gradium ensures controlled emission through staking while
+- **Inflation Control**: Unlike traditional models, Quantova ensures controlled emission through staking while
   maintaining a decreasing total supply.
 
 ### **Bridged BEP-20 Token: GRD**
 
-Gradium Network also supports a **BEP-20 bridged version of GRD**, allowing interoperability with the Binance Smart
+Quantova Network also supports a **BEP-20 bridged version of GRD**, allowing interoperability with the Binance Smart
 Chain (BSC).
 This bridged token has a **fixed total supply of 52 million** and follows a structured burn mechanism:
 
@@ -94,4 +94,4 @@ documentation.
 
 ## **Questions?**
 
-Reach out to the team on [Slack/Teams] or contact the [Gradium Support team](mailto:info@gradium.io).
+Reach out to the team on [Slack/Teams] or contact the [Quantova Support team](mailto:info@Quantova.org).
