@@ -44,26 +44,26 @@ threats.
 
 ## **Quantova Tokenomics**
 
-### **Native Deflationary Coin: GRD**
+### **Native Deflationary Coin: QTOV**
 
-The native currency of the Quantova Network, **GRD**, is designed with a **deflationary model**, ensuring long-term
+The native currency of the Quantova Network, **QTOV**, is designed with a **deflationary model**, ensuring long-term
 sustainability. Key aspects:
 
-- **Consensus Participation**: Validators and delegators stake GRD to secure the network and earn rewards.
+- **Consensus Participation**: Validators and delegators stake QTOV to secure the network and earn rewards.
 - **Transaction Fees & Burning**: A portion of each transaction fee is **burned**, gradually reducing the total supply.
-- **Ecosystem Utility**: GRD is used for governance, smart contract execution, and ecosystem services.
+- **Ecosystem Utility**: QTOV is used for governance, smart contract execution, and ecosystem services.
 - **Inflation Control**: Unlike traditional models, Quantova ensures controlled emission through staking while
   maintaining a decreasing total supply.
 
-### **Bridged BEP-20 Token: GRD**
+### **Bridged BEP-20 Token: QTOV**
 
-Quantova Network also supports a **BEP-20 bridged version of GRD**, allowing interoperability with the Binance Smart
+Quantova Network also supports a **BEP-20 bridged version of QTOV**, allowing interoperability with the Binance Smart
 Chain (BSC).
 This bridged token has a **fixed total supply of 52 million** and follows a structured burn mechanism:
 
-- **Total Supply**: 52,000,000 GRD (fixed)
+- **Total Supply**: 52,000,000 QTOV (fixed)
 - **Use Cases**: Trading, DeFi applications, and cross-chain interoperability.
-- **Bridge Mechanism**: Users can swap between the native and bridged versions of GRD via the official bridge.
+- **Bridge Mechanism**: Users can swap between the native and bridged versions of QTOV via the official bridge.
 
 ---
 
